@@ -25,7 +25,7 @@ E_Commerce_Chatbot/
 
 **Clone the repository:**
 
-git clone https://github.com/yourusername/E_Commerce_Chatbot.git
+git clone https://github.com/Bar123sha/E_Commerce_Chatbot/tree/main
 cd E_Commerce_Chatbot
 
 
